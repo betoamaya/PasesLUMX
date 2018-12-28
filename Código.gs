@@ -18,7 +18,7 @@ var urlLogo = "https://lh3.googleusercontent.com/5sgfSVFvSoC5pFs8dSiK8MHYbHP3dUA
 
 //Variables Globales
 var tRegistro;
-var sFechaVencimiento = '31 de Diciembre de 2018';
+var sFechaVencimiento = '30 de Junio del 2019';
 
 //*-*-*-*-*-*-*-*-*-*-*-*-*-* I N I C I O *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*                                    INICIO
 function doGet(e) {
